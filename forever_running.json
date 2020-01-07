@@ -1,0 +1,14 @@
+[
+  {
+    "uid": "server_websocket",
+    "append": true,
+    "watch": true,
+    "script": "server.js"
+  },
+  {
+    "uid": "server_pooling",
+    "append": true,
+    "watch": true,
+    "script": "server-pooling.js"
+  }
+]
